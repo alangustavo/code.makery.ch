@@ -57,7 +57,7 @@ languages:
 
 * Conhecendo o JavaFX
 * Criando e inicializando um projeto JavaFX
-* Utilizando o Scene Builder para modelar a interce com o usuário
+* Utilizando o Scene Builder para modelar a interface com o usuário
 * Estrutura básica da aplicação utilizando o padrão Model-View-Controller (MVC)
 
 
